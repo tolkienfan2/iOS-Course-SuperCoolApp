@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "5e4ef85d0476ed5d8f33a67857ba3b78"
+build_time: [505511147, 562987000]
+inputs:
+  "/Users/minnikang/Documents/Xcode School/SuperCool/SuperCool/ViewController.swift": [505511147, 0]
+  "/Users/minnikang/Documents/Xcode School/SuperCool/SuperCool/AppDelegate.swift": [505509068, 0]
